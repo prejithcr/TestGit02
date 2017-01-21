@@ -5,3 +5,5 @@ this is a sample file.
 this is a sample file.
 
 We are on the develop branch.
+
+Adding a new feature great !
